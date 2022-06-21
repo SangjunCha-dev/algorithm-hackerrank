@@ -1,4 +1,6 @@
 # https://www.hackerrank.com/challenges/extra-long-factorials/problem
+# 분류 : Implementation
+# 난이도 : meduim
 # 풀이시간 7분
 
 #!/bin/python3

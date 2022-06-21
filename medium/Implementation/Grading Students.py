@@ -1,10 +1,10 @@
-# https://www.hackerrank.com/challenges/grading/problem
+# 문제링크: https://www.hackerrank.com/challenges/grading/problem
+# 분류 : Implementation
+# 난이도 : meduim
+# 풀이시간: 14분
 
 # grade 38 보다 작으면 변환하지 않음
 # 일의자리가 5의 배수보다 3미만으로 작을때 5의 배수로 올림
-
-# 풀이시간: 14분
-
 
 #!/bin/python3
 
